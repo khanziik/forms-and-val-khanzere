@@ -4,6 +4,8 @@
 
 **Group:** IT-2504
 
+https://khanziik.github.io/forms-and-val-khanzere/
+
 ## Objective
 The goal of this assignment is to learn how to create HTML forms, use HTML5 validation, style forms with Bootstrap, and display validation feedback.
 
